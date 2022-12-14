@@ -1,0 +1,10 @@
+#!name=Network Information
+#!desc=Network Information
+
+[Panel]
+Network Information = script-name=Network Information,title=Network Information,content=Refesh,style=info,update-interval=60
+TrafficStatistics = script-name=TrafficStatistics,update-interval=1
+
+[Script]
+Network Information = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/HoaVKhuyet/Surge/main/Javascript/ipcheck.js
+TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/HoaVKhuyet/Surge/main/Javascript/traffic.js,argument=icon=arrow.up.arrow.down.circle&color=#5d84f8&network=pdp_ip0
