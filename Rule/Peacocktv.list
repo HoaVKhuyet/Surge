@@ -2,8 +2,9 @@
 # AUTHOR: Hoa Vo Khuyet
 # UPDATED: 2022-12-23 15:12:00
 # DOMAIN-SUFFIX: 1
-# IP-CIDR: 3
+# IP-CIDR: 4
 DOMAIN-SUFFIX,peacocktv.com
 IP-CIDR,184.50.87.18/32,no-resolve
 IP-CIDR,184.50.87.27/32,no-resolve
+IP-CIDR,23.219.172.106/32,no-resolve
 IP-CIDR,23.2.16.187/32,no-resolve
