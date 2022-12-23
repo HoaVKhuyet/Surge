@@ -1,0 +1,8 @@
+# NAME: Peacocktv
+# AUTHOR: Hoa Vo Khuyet
+# UPDATED: 2022-12-23 15:02:00
+# DOMAIN-SUFFIX: 1
+# IP-ASN: 2
+DOMAIN-SUFFIX,peacocktv.com
+IP-CIDR,184.50.87.18/32,no-resolve
+IP-CIDR,184.50.87.27/32,no-resolve
